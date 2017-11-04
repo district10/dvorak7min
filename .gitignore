@@ -1,2 +1,4 @@
 dvorak7min
 *.o
+.idea/*
+*build*
