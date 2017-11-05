@@ -54,14 +54,14 @@ int hideKeys = 1;
 int hideKeys = 0;
 #endif
 
-int max_editable_lines = 2;
+int max_editable_lines = 6;
 int right_margin = 70;
 
 const char *postmortem = "undefined postmortem";
 
 /* all typable characters */
 char typables[] = "`1234567890[]',.pyfgcrl/=\\aoeuidhtns-;qjkxbmwvz"
-        "~!@#$%^&*(){}\"<>PYFGCRL?+|AOEUIDHTNS_:QJKXBMWVZ\n";
+        "~!@#$%^&*(){}\"<>PYFGCRL?+|AOEUIDHTNS_:QJKXBMWVZ\n ";
 
 char map[] =
         {
